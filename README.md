@@ -66,6 +66,16 @@ The project helps finance teams monitor collections, supplier payments, customer
 
 ---
 
+## Dashboard Screenshots
+### Accounts Receivable Performance Dashboard
+![Accounts Receivable](Screenshots/AR.png)
+### Accounts Payable Performance Dashboard
+![Accounts Payable](Screenshots/AP.png)
+### Credit & Risk Dashboard
+![Credit Risk](Screenshots/CR.png)
+
+---
+
 ## Tools Used
 
 - Tableau
